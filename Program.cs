@@ -6,7 +6,7 @@ using System.Threading.Channels;
 namespace peer1
 {
     /// <summary>
-    /// Класс, где реализуется игра "Быки и коровы".
+    /// Класс, где реализована игра "Быки и коровы".
     /// </summary>
     class Program
     {
