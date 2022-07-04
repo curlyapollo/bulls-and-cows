@@ -1,0 +1,16 @@
+C:\Users\79653\RiderProjects\peer1\peer1\bin\Debug\net5.0\peer1.exe
+C:\Users\79653\RiderProjects\peer1\peer1\bin\Debug\net5.0\peer1.deps.json
+C:\Users\79653\RiderProjects\peer1\peer1\bin\Debug\net5.0\peer1.runtimeconfig.json
+C:\Users\79653\RiderProjects\peer1\peer1\bin\Debug\net5.0\peer1.runtimeconfig.dev.json
+C:\Users\79653\RiderProjects\peer1\peer1\bin\Debug\net5.0\peer1.dll
+C:\Users\79653\RiderProjects\peer1\peer1\bin\Debug\net5.0\ref\peer1.dll
+C:\Users\79653\RiderProjects\peer1\peer1\bin\Debug\net5.0\peer1.pdb
+C:\Users\79653\RiderProjects\peer1\peer1\obj\Debug\net5.0\peer1.csproj.AssemblyReference.cache
+C:\Users\79653\RiderProjects\peer1\peer1\obj\Debug\net5.0\peer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79653\RiderProjects\peer1\peer1\obj\Debug\net5.0\peer1.AssemblyInfoInputs.cache
+C:\Users\79653\RiderProjects\peer1\peer1\obj\Debug\net5.0\peer1.AssemblyInfo.cs
+C:\Users\79653\RiderProjects\peer1\peer1\obj\Debug\net5.0\peer1.csproj.CoreCompileInputs.cache
+C:\Users\79653\RiderProjects\peer1\peer1\obj\Debug\net5.0\peer1.dll
+C:\Users\79653\RiderProjects\peer1\peer1\obj\Debug\net5.0\ref\peer1.dll
+C:\Users\79653\RiderProjects\peer1\peer1\obj\Debug\net5.0\peer1.pdb
+C:\Users\79653\RiderProjects\peer1\peer1\obj\Debug\net5.0\peer1.genruntimeconfig.cache
