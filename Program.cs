@@ -15,7 +15,7 @@ namespace peer1
         /// <summary>
         /// Эта функция проверяет, является ли число, удовлетворяющим правилам игры.
         /// </summary>
-        /// <param name="num">Число, которое проверяем.</param>
+        /// <param name="num">Число, которое мы проверяем.</param>
         /// <returns>Возвращает, верно ли число.</returns>
         static bool IsRightNumber(string num)
         {
